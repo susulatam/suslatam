@@ -1,3 +1,1 @@
-SUSU LATAM bilingual landing v2
-
-Upload all files/folders to repository root.
+SUSU LATAM landing v3 - EN/ES/PT with flag language selector.
