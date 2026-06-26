@@ -1,1 +1,1 @@
-SUSU LATAM landing v3 - EN/ES/PT with flag language selector.
+SUSU LATAM v4: English, Spanish and Portuguese landing with SVG flag selector.
